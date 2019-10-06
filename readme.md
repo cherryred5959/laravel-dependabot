@@ -1,1 +1,1 @@
-# renovate-laravel
+# laravel-renovate
