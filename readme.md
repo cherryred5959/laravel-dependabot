@@ -1,1 +1,1 @@
-# Renovate composer
+# renovate-laravel
