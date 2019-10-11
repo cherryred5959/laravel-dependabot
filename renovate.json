@@ -2,10 +2,10 @@
   "extends": [
     "config:base"
   ],
-  "composer": {
+  "php": {
     "enabled": true
   },
-  "lockFileMaintenance": {
+  "composer": {
     "enabled": true
   }
 }
