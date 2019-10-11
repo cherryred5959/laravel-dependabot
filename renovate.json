@@ -3,6 +3,10 @@
     "config:js-app"
   ],
   "composer": {
-      "enabled": true
-  }
+    "enabled": true
+  },
+  "enabledManagers": [
+    "npm",
+    "composer"
+  ]
 }
